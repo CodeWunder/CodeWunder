@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Iwara Wisdom</h1>
 <h3 align="center">A Web Virtuoso crafting digital symphonies for startups using using a harmonious blend of Web Development prowess sprinkled with a dash of UI/UX Finesse.</h3>
 
-- 🔭 I’m currently working on [Aa](Aa)
+- 🔭 I’m currently working on: Rapturing Faith Assembly website - Revamping the design and adding new features.
 
-- 🌱 I’m currently learning **Aa**
+- 🌱 I’m currently learning: Next.js - Exploring its server-side rendering capabilities for faster web applications.
 
-- 👯 I’m looking to collaborate on [As](As)
-
-- 🤝 I’m looking for help with [Aa](Aa)
+- 👯 I’m looking to collaborate on: Exciting web development projects, especially those involving JavaScript and modern frameworks.
 
 - 👨‍💻 All of my projects are available at [https://codewunder.vercel.app](https://codewunder.vercel.app)
 
@@ -16,8 +14,6 @@
 - 💬 Ask me about **React,Vue, JavaScript**
 
 - 📫 How to reach me **wisdomtrustgod@gmail.com**
-
-- 📄 Know about my experiences [Yy](Yy)
 
 - ⚡ Fun fact **Gggt**
 
