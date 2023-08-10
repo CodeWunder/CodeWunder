@@ -85,13 +85,14 @@ export function Portfolio(){
             </header>
             <div className="body">
               <h3>Interactive Comment App</h3>
-              <p> </p>
+              <p>Engage in two-way conversations with the ability to reply and delete chats using this interactive chat application.
+              </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>Html</li>
-                <li>Css</li>
-                <li>JavaScript</li>
+                <li><img src={reactIcon} alt="React Icon" /></li>
+                <li><img src={sassIcon} alt="Sass Icon" /></li>
+                <li><img src={cssIcon} alt="CSS Icon" /></li>                          
               </ul>
             </footer>
           </div>
