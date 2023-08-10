@@ -105,9 +105,8 @@ export function Portfolio(){
             </div>
             </header>
             <div className="body">
-              <h3>Portfólio V1</h3>
-              <p>Uma versão alternativa de meu portfólio, utilizando VueJs.
-              </p>
+              <h3>Codewunder Portfolio</h3>
+              <p>Explore my personal portfolio – a fusion of TypeScript and React. Enjoy smooth scrolling and captivating background animations. Let's connect through my projects and journey!</p>
             </div>
             <footer>
               <ul className="tech-list">
@@ -158,7 +157,7 @@ export function Portfolio(){
             <div className="body">
               <h3>Password Generator</h3>
               <p>
-                This powerful app creates custom, secure passwords to protect your online accounts. With adjustable settings, it generates strong, unique passwords of any length. Upgrade your online security today!
+                Elevate security, get custom strong passwords. Protect your online accounts with adjustable, unique passwords. Upgrade for safety! 
               </p>
             </div>
             <footer>
