@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **wisdomtrustgod@gmail.com**
 
-- ⚡ Fun fact **Gggt**
+- ⚡ Fun fact **"The first website ever created, back in 1990, was dedicated to information about the World Wide Web project itself. It was a simple page explaining the concept and providing instructions on how to use the Web, a far cry from the sophisticated websites we have today."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
