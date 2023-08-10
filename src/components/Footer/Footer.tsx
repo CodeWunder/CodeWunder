@@ -1,6 +1,6 @@
 import { Container } from './styles'
 
-import computerIcon from '../../assets/computer.png'
+import reactIcon from '../../assets/reactjs.png'
 import linkedinIcon from '../../assets/linkedin.png'
 import githubIcon from '../../assets/github.png'
 import instagramIcon from '../../assets/instagram.png'
@@ -15,7 +15,7 @@ export function Footer() {
       </a>
       <div>
         <p>
-          © 2023 Codewunder<img src={computerIcon} alt="Computer" />          
+          © 2023 Codewunder<img src={reactIcon} alt="React" />          
         </p>
       </div>
 
