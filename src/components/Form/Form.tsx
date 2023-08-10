@@ -34,7 +34,7 @@ export function Form() {
   if (state.succeeded) {
     return (
       <ContainerSucces>
-        <h3>Obrigado por entrar em contato!</h3>
+        <h3>Email sent successfully!</h3>
         <button
           onClick={() => {
             window.scrollTo({ top: 0, behavior: 'smooth' })
