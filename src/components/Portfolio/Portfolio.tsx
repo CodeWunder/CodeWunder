@@ -29,7 +29,7 @@ export function Portfolio(){
           </header>
           <div className="body">
             <h3>Dream Weavers Realty</h3>
-            <p>Discover the essence of real estate excellence with Dream Weavers Realty – your ultimate destination for exceptional properties and personalized service.
+            <p>Explore real estate excellence at Dream Weavers Realty – your premier source for unique properties and tailored service.
             </p>
           </div>
           <footer>
@@ -106,7 +106,8 @@ export function Portfolio(){
             </header>
             <div className="body">
               <h3>Codewunder Portfolio</h3>
-              <p>Explore my personal portfolio – a fusion of TypeScript and React. Enjoy smooth scrolling and captivating background animations. Let's connect through my projects and journey!</p>
+              <p>Discover my portfolio: a blend of TypeScript and React. Experience seamless scrolling and captivating animations. Let's connect through my projects and journey!         
+              </p>
             </div>
             <footer>
               <ul className="tech-list">
