@@ -7,7 +7,7 @@ import htmlIcon from "../../assets/html.png";
 import cssIcon from "../../assets/css.png";
 import jsIcon from "../../assets/javascript.png";
 import sassIcon from "../../assets/sass.png";
-import typescriptIcon from "../../assets/typescript.webp";
+import typescriptIcon from "../../assets/typescript.png";
 
 
 export function Portfolio(){
