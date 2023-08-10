@@ -188,19 +188,6 @@ export const Container = styled.header`
       }
     }
   }
-
-  img{
-      width: 2.6rem;
-      animation: spinning 5s infinite linear;
-    }
-@keyframes spinning {
-    0%{
-      transform: rotate(0);
-    }
-    100%{
-      transform: rotate(360deg);
-    }
-  }
   
 `
 
