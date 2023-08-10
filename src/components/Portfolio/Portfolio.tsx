@@ -138,7 +138,7 @@ export function Portfolio(){
             </header>
             <div className="body">
               <h3>Tic Tac Toe</h3>
-              <p>Um gerenciador de finanças para analisar seus ganhos, gastos e ter um controle maior de suas finanças.
+              <p>Experience classic fun with my Tic Tac Toe website. Play against friends or the computer in this timeless game.
               </p>
             </div>
             <footer>
