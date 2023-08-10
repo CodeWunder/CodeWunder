@@ -21,7 +21,7 @@ export function Footer() {
 
       <div className="social-media">
         <a
-          href="https://www.linkedin.com/in/jtsoares/"
+          href="https://www.linkedin.com/in/iwarawisdom/"
           target="_blank"
           rel="noreferrer"
         >
@@ -29,7 +29,7 @@ export function Footer() {
         </a>
 
         <a
-          href="https://github.com/joaotuliojt"
+          href="https://github.com/codewunder"
           target="_blank"
           rel="noreferrer"
         >
@@ -37,7 +37,7 @@ export function Footer() {
         </a>
 
         <a
-          href="https://www.instagram.com/tulio_joaob/"
+          href="https://www.instagram.com/stunwunder/"
           target="_blank"
           rel="noreferrer"
         >
@@ -45,11 +45,11 @@ export function Footer() {
         </a>
 
         <a
-          href="https://discord.com/users/426120432991862784"
+          href="wa.me/08122390396"
           target="_blank"
           rel="noreferrer"
         >
-          <img src={whatsappIcon} alt="Discord" />
+          <img src={whatsappIcon} alt="WhatsApp" />
         </a>
       </div>
     </Container>
