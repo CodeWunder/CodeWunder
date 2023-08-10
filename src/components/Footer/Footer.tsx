@@ -21,7 +21,7 @@ export function Footer() {
 
       <div className="social-media">
         <a
-          href="https://www.linkedin.com/in/iwarawisdom/"
+          href="https://www.linkedin.com/in/wisdom-iwara-140b11218"
           target="_blank"
           rel="noreferrer"
         >
@@ -45,7 +45,7 @@ export function Footer() {
         </a>
 
         <a
-          href="wa.me/08122390396"
+          href="https://wa.me/08122390396"
           target="_blank"
           rel="noreferrer"
         >
