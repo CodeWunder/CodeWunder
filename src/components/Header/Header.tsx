@@ -2,6 +2,7 @@ import { Container } from './styles'
 import { BrowserRouter as Router } from 'react-router-dom'
 import { NavHashLink, HashLink } from 'react-router-hash-link'
 import { useState } from 'react'
+import computerIcon from '../../assets/computer.png'
 
 import Curriculo from '../../assets/CV_JoaoTulio.pdf'
 export function Header() {
@@ -22,6 +23,7 @@ export function Header() {
         <HashLink smooth to="#home" className="logo">
           <span>¢ode</span>
           <span>wunder</span>
+          <img src={computerIcon} alt="Computer" />
         </HashLink>
 
         <input
