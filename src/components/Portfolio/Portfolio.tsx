@@ -7,6 +7,7 @@ import htmlIcon from "../../assets/html.png";
 import cssIcon from "../../assets/css.png";
 import jsIcon from "../../assets/javascript.png";
 import sassIcon from "../../assets/sass.png";
+import typescriptIcon from "../../assets/typescript.webp";
 
 
 export function Portfolio(){
@@ -111,9 +112,10 @@ export function Portfolio(){
             </div>
             <footer>
               <ul className="tech-list">
-                <li>VueJs</li>
-                <li>JavaScript</li>
-              </ul>
+                <li><img src={reactIcon} alt="React Icon" /></li>
+                <li><img src={typescriptIcon} alt="Typescript Icon" /></li>
+                <li><img src={cssIcon} alt="CSS Icon" /></li>                
+            </ul>
             </footer>
           </div>
         </ScrollAnimation>
