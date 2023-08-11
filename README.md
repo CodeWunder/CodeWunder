@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://codewunder.vercel.app](https://codewunder.vercel.app)
 
-- 📝 I regularly write articles on [Dev.to](Dev.to/codewunder)
+- 📝 I regularly write articles on [Dev.to](https://dev.to/codewunder)
 
 - 💬 Ask me about **React,Vue, JavaScript**
 
@@ -20,8 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/codewunder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="codewunder" height="30" width="40" /></a>
-<a href="https://twitter.com/codewunder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Codewunder" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ggg" height="30" width="40" /></a>
+<a href="https://twitter.com/stunwunder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Codewunder" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/wisdom-iwara-140b11218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
 <a href="https://fb.com/ggg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ggg" height="30" width="40" /></a>
 </p>
 
