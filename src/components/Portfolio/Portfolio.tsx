@@ -109,8 +109,8 @@ export function Portfolio(){
             </div>
             </header>
             <div className="body">
-              <h3>Codewunder Portfolio</h3>
-              <p>Discover my portfolio: a blend of TypeScript and React. Experience seamless scrolling and captivating animations. Let's connect through my projects and journey!         
+              <h3>Personal Portfolio</h3>
+              <p>A blend of TypeScript and React. Experience seamless scrolling and captivating animations. Let's connect through my projects and journey!         
               </p>
             </div>
             <footer>
