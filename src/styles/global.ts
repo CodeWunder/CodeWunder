@@ -76,10 +76,9 @@ export const GlobalStyle = createGlobalStyle`
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
   }
-  *:focus{
-  outline: none !important;
-  }
+  
 
   html{
     font-size: 62.5%;
