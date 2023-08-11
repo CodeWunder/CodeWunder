@@ -38,7 +38,7 @@ export const Container = styled.div`
     }
 
     button{
-      padding: 1rem 8rem;
+      padding: 3rem 8rem;
       text-transform: uppercase;
       box-shadow: 0rem 0.4rem 0.8rem rgba(0, 0, 0, 0.2);
       text-shadow: 0.1rem 0.1rem 0.1rem rgba(0, 0, 0, 0.2);
