@@ -4,7 +4,7 @@ import reactIcon from '../../assets/reactjs.png'
 import linkedinIcon from '../../assets/linkedin.png'
 import githubIcon from '../../assets/github.png'
 import instagramIcon from '../../assets/instagram.png'
-import whatsappIcon from '../../assets/whatsapp.png'
+import devtoIcon from '../../assets/dev-to.svg'
 
 export function Footer() {
   return (
@@ -45,11 +45,11 @@ export function Footer() {
         </a>
 
         <a
-          href="https://wa.me/08122390396"
+          href="https://dev"
           target="_blank"
           rel="noreferrer"
         >
-          <img src={whatsappIcon} alt="WhatsApp" />
+          <img src={devtoIcon} alt="Devto" />
         </a>
       </div>
     </Container>
