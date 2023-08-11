@@ -78,7 +78,7 @@ export function Portfolio(){
               <a href="https://github.com/CodeWunder/Interactive-Comment-App" target="_blank" rel="noreferrer">
                 <img src={githubIcon} alt="GitHub" />
               </a>
-              <a href="https://codewunder-planet.netlify.app/" target="_blank" rel="noreferrer">
+              <a href="https://interactive-comment-app-nine.vercel.app" target="_blank" rel="noreferrer">
                 <img src={externalLinkIcon} alt="Visit site" />
               </a>
             </div>
@@ -131,7 +131,7 @@ export function Portfolio(){
               <a href="https://github.com/CodeWunder/Tic-tac-toe" target="_blank" rel="noreferrer">
                 <img src={githubIcon} alt="GitHub" />
               </a>
-              <a href="https://codewunder-planet.netlify.app/" target="_blank" rel="noreferrer">
+              <a href="https://codewunder-tic-tac-toe.netlify.app/" target="_blank" rel="noreferrer">
                 <img src={externalLinkIcon} alt="Visit site" />
               </a>
             </div>
