@@ -78,6 +78,13 @@ export const Container = styled.section`
 
   @media (min-width: 1000px) {
       grid-template-columns: 1fr 1fr;
+      .about-image{
+    text-align: center;    
+    img{
+     margin-top: 2rem;
+     width: 70%;
+     }
+    }
     }
 
 `
