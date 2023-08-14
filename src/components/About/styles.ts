@@ -77,12 +77,13 @@ export const Container = styled.section`
   }
 
   @media (min-width: 1000px) {
-      grid-template-columns: 1fr 1fr;
+      grid-template-columns: 1.3fr 0.7fr;
       .about-image{
     text-align: center;    
     img{
-     margin-top: 2rem;
-     width: 70%;
+     margin-top: 0;
+     width: 400px;
+     height: 450px;
      }
     }
     }
