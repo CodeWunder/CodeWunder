@@ -45,7 +45,7 @@ export function Header() {
           <NavHashLink smooth to="#contact" onClick={closeMenu}>
             Contact
           </NavHashLink>
-          <a href="https://resume.io/r/KAvJpIGbu" download className="button">
+          <a href="/Wisdom.pdf" download className="button">
            Download CV
           </a>
         </nav>
