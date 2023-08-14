@@ -76,4 +76,8 @@ export const Container = styled.section`
     
   }
 
+  @media (min-width: 1000px) {
+      grid-template-columns: 1fr 1fr;
+    }
+
 `
