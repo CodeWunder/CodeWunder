@@ -45,7 +45,7 @@ export function Header() {
           <NavHashLink smooth to="#contact" onClick={closeMenu}>
             Contact
           </NavHashLink>
-          <a href="/Wisdom.pdf" download className="button">
+          <a href="/src/assets/Wisdom.pdf" download className="button">
            Download CV
           </a>
         </nav>
