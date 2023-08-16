@@ -45,7 +45,7 @@ export function Header() {
           <NavHashLink smooth to="#contact" onClick={closeMenu}>
             Contact
           </NavHashLink>
-          <a href="../../assets/Wisdom.pdf" className="button">
+          <a href="https://drive.google.com/file/d/12KUdysgyb7aOAIN8W39AMSlWiqkC_jF8/view?usp=drive_link" className="button">
            Download CV
           </a>
         </nav>
