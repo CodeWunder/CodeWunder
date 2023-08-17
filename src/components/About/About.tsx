@@ -7,7 +7,8 @@ import nodeIcon from "../../assets/nodejs.png";
 import reactIcon from "../../assets/reactjs.png";
 import tailwindIcon from "../../assets/tailwind.png";
 import bootstrapIcon from "../../assets/bootstrap.png";
-import materializeIcon from "../../assets/materialize.png";
+import materializeIcon from "../../assets/materialize.png"
+import styledcomponentsIcon from "../../assets/styled-components.png"
 import vueIcon from "../../assets/vue.png";
 import manImage from "../../assets/codewunder.jpg";
 import ScrollAnimation from "react-animate-on-scroll";
@@ -92,6 +93,11 @@ export function About(){
           </ScrollAnimation>
           </div>
 
+          <div className="skills">
+          <ScrollAnimation animateIn="fadeInUp" delay={0.7 * 1000}>
+            <img src={styledcomponentsIcon} alt="styledcomponents Icon" />
+          </ScrollAnimation>
+          </div>
 
         </div>
       </div>
