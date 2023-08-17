@@ -62,7 +62,7 @@ export function Portfolio(){
             <footer>
               <ul className="tech-list">
                 <li><img src={reactIcon} alt="React Icon" /></li>
-                <li><img src={csssIcon} alt="csss Icon" /></li>
+                <li><img src={cssIcon} alt="css Icon" /></li>
                 <li><img src={styledcomponentsIcon} alt="styledcomponents Icon" /></li>                
               </ul>
             </footer>
