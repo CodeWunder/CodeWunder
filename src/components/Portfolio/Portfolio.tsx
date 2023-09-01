@@ -219,7 +219,7 @@ export function Portfolio(){
             <div className="body">
               <h3>Osunrombi Ayobami</h3>
               <p>
-                 I collaborated with the Ayobami the animator, to create a dynamic and visually captivating online portfolio that reflects his artistic prowess.
+                 I collaborated with Ayobami the animator, to create a dynamic and visually captivating online portfolio that reflects his artistic prowess.
               </p>
             </div>
             <footer>
