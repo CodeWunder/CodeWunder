@@ -52,21 +52,25 @@ export function Portfolio(){
           <div className="project">
             <header>
             <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="#66bfff" stroke="#66bfff " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
-            <div className="project-links">         
-              <a href="https://olumideportfolio.netlify.app/" target="_blank" rel="noreferrer">
+            <div className="project-links">
+              <a href="https://github.com/CodeWunder/Scoot" target="_blank" rel="noreferrer">
+                <img src={githubIcon} alt="GitHub" />
+              </a>
+              <a href="https://scoot-rho.vercel.app/" target="_blank" rel="noreferrer">
                 <img src={externalLinkIcon} alt="Visit site" />
               </a>
             </div>
             </header>
             <div className="body">
-              <h3>Olumide's Portfolio</h3>
-              <p>Crafted a dynamic portfolio for my friend, highlighting their journey as a skilled data analyst.</p>
+              <h3>Scoot Website</h3>
+              <p>Scoot takes the hassle out of urban mobility. Our bikes are placed in convenient locations in each of our cities. Use our app to locate the nearest bike, unlock it with a tap, and you’re away!
+              </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li><img src={reactIcon} alt="React Icon" /></li>
-                <li><img src={cssIcon} alt="css Icon" /></li>
-                <li><img src={styledcomponentsIcon} alt="styledcomponents Icon" /></li>                
+                <li><img src={reactIcon} alt="React" /></li>
+                <li><img src={cssIcon} alt="CSS" /></li>
+                <li><img src={typescriptIcon} alt="Typescript" /></li>                
               </ul>
             </footer>
           </div>
