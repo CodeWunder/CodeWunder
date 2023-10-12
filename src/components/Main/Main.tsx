@@ -10,12 +10,10 @@ import cssIcon from "../../assets/css.png";
 import htmlIcon from "../../assets/html.png";
 import jsIcon from "../../assets/javascript.png";
 import materializeIcon from "../../assets/materialize.png";
-import nodeIcon from "../../assets/nodejs.png";
 import reactIcon from "../../assets/reactjs.png";
 import sassIcon from "../../assets/sass.png";
 import tailwindIcon from "../../assets/tailwind.png";
 import vscodeIcon from "../../assets/vscode.png";
-import vueIcon from "../../assets/vue.png";
 
 
 export function Main(){
@@ -177,11 +175,6 @@ export function Main(){
                 "height": 20
               },
               {
-                "src": nodeIcon,
-                "width": 20,
-                "height": 20
-              },
-              {
                 "src": reactIcon,
                 "width": 20,
                 "height": 20
@@ -200,13 +193,7 @@ export function Main(){
                 "src": vscodeIcon,
                 "width": 20,
                 "height": 20
-              },
-              {
-                "src": vueIcon,
-                "width": 20,
-                "height": 20
-              },
-          
+              },   
             ],
             "polygon": {
               "sides": 5
