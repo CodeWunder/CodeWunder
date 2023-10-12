@@ -25,21 +25,24 @@ export function Portfolio(){
           <header>
           <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="#66bfff" stroke="#66bfff" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
           <div className="project-links">
-            <a href="https://dreamweaversrealty.vercel.app" target="_blank" rel="noreferrer">
+            <a href="https://github.com/CodeWunder/Coffee-Roasters" target="_blank" rel="noreferrer">
+                <img src={githubIcon} alt="GitHub" />
+              </a>
+            <a href="https://coffee-roasters-eta.vercel.app" target="_blank" rel="noreferrer">
               <img src={externalLinkIcon} alt="External Link" />
             </a>
           </div>
           </header>
           <div className="body">
-            <h3>Dream Weavers Realty</h3>
+            <h3>Coffee Roasters</h3>
             <p>Explore real estate excellence at Dream Weavers Realty – your premier source for unique properties and tailored service.
             </p>
           </div>
           <footer>
             <ul className="tech-list">
-              <li><img src={reactIcon} alt="React Icon" /></li>
-              <li><img src={jsIcon} alt="JavaScript Icon" /></li>
-              <li><img src={cssIcon} alt="CSS Icon" /></li>                
+              <li><img src={htmlIcon} alt="HTML" /></li>
+              <li><img src={jsIcon} alt="JavaScript" /></li>
+              <li><img src={cssIcon} alt="CSS" /></li>                
             </ul>
           </footer>
         </div>
