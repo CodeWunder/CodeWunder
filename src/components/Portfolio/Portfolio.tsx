@@ -35,14 +35,14 @@ export function Portfolio(){
           </header>
           <div className="body">
             <h3>Coffee Roasters</h3>
-            <p>Elevate your coffee experience with the coffee roaster website. Create personalized coffee plans and enjoy a fresh brew at your doorstep.
+            <p>Start your mornings with the world’s best coffees. Try our expertly curated artisan coffees from our best roasters delivered directly to your door, at your schedule.
             </p>
           </div>
           <footer>
             <ul className="tech-list">
               <li><img src={htmlIcon} alt="HTML" /></li>
               <li><img src={jsIcon} alt="JavaScript" /></li>
-              <li><img src={cssIcon} alt="CSS" /></li>                
+              <li><img src={sassIcon} alt="SCSS" /></li>                
             </ul>
           </footer>
         </div>
