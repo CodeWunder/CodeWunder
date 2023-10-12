@@ -35,7 +35,7 @@ export function Portfolio(){
           </header>
           <div className="body">
             <h3>Coffee Roasters</h3>
-            <p>Explore real estate excellence at Dream Weavers Realty – your premier source for unique properties and tailored service.
+            <p>Elevate your coffee experience with the coffee roaster website. Create personalized coffee plans and enjoy a fresh brew at your doorstep.
             </p>
           </div>
           <footer>
